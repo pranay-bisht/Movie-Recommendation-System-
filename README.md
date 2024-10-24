@@ -47,12 +47,12 @@ The goal of this project is to recommend movies to users based on the similarity
 ## Setup and Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/movie-recommendation-system.git
+    git clone https://github.com/pranay-bisht/Movie-Recommendation-System.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd movie-recommendation-system
+    cd Movie-Recommendation-System
     ```
 
 3. Install the required dependencies:
